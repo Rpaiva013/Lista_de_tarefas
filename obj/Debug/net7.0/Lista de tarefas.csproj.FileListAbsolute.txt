@@ -1,0 +1,15 @@
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\bin\Debug\net7.0\Lista de tarefas.exe
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\bin\Debug\net7.0\Lista de tarefas.deps.json
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\bin\Debug\net7.0\Lista de tarefas.runtimeconfig.json
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\bin\Debug\net7.0\Lista de tarefas.dll
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\bin\Debug\net7.0\Lista de tarefas.pdb
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.csproj.AssemblyReference.cache
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.AssemblyInfoInputs.cache
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.AssemblyInfo.cs
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.dll
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\refint\Lista de tarefas.dll
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.pdb
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\Lista de tarefas.genruntimeconfig.cache
+C:\Users\renan.paiva\Desktop\Básicos\Lista de tarefas\obj\Debug\net7.0\ref\Lista de tarefas.dll
